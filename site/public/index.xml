@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nagayama.dev</title>
+    <link>http://nagayama.dev/</link>
+    <description>Recent content on nagayama.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 11 Feb 2022 11:40:09 +0900</lastBuildDate><atom:link href="http://nagayama.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo に移行</title>
+      <link>http://nagayama.dev/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Feb 2022 11:40:09 +0900</pubDate>
+      
+      <guid>http://nagayama.dev/posts/my-first-post/</guid>
+      <description>個人サイトを Hugo に移行した。
+Hugo + Firebase hosting + Google Domains でかなりスムーズにブログから移行することができた。良い感じである。
+利用している theme は、 PaperMod。シンプルで良い。</description>
+    </item>
+    
+  </channel>
+</rss>

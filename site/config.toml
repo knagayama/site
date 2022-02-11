@@ -1,0 +1,4 @@
+baseURL = 'http://nagayama.dev/'
+languageCode = 'ja-JP'
+title = 'nagayama.dev'
+theme = "papermod"
